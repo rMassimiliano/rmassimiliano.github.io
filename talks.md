@@ -3,6 +3,7 @@ title: "Conferences and talks"
 permalink: "/talks/"
 author_profile: true
 ---
+ <span style = "color:rgb(0,35,156)">**Inference in  Clinical trials when the patient population is subject to changeds over time** </span> HiTS Annual Symposium,  Boston, MA, USA, October 21, 2019 (Poster).
 
  <span style = "color:rgb(0,35,156)">**Soft classification tree ensemble of Higgs pair production**</span>, Advanced Statistics for Physics Discovery, Padova, Italy, September 24, 2018, (Poster).
 

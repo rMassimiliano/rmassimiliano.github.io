@@ -3,6 +3,7 @@ title: "List of publications"
 permalink: /publications/
 author_profile: true
 ---
+Aliverti, E., Paganin, S., Rigon, T. and <span style="color:rgb(0,35,156)">**Russo, M.**</span> (2019+). A discussion on: "[Latent nested nonparametric priors](https://projecteuclid.org/euclid.ba/1561601089)" by Camerlenghi, F., Dunson, D.B., Lijoi, A., Prünster, I. and Rodriguez, A. in Bayesian Analysis (In press).
 
 Cabassi A., Casa A., Fontana M., <span style="color:rgb(0,35,156)">**Russo M.**</span>, Farcomeni A. (2018) [Three Testing Perspectives on Connectome Data.](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_3) In: Canale A., Durante D., Paci L., Scarpa B. (eds) Studies in Neural Data Science. START UP RESEARCH 2017. Springer Proceedings in Mathematics & Statistics, vol 257. Springer, Cham.
 
