@@ -54,3 +54,6 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+plugins:
+  - jekyll-pdf-embed   
