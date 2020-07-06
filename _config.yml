@@ -57,3 +57,4 @@ comments:
 
 plugins:
   - jekyll-pdf-embed   
+  - jekyll-include-cache
