@@ -18,7 +18,7 @@ Cantone, E., Ciofalo, A.,Vodicka, J., Iacono, V., Mylonakis, I., Scarpa, B.,<spa
 
 ## Submitted & Under review
 
-<span style="color:rgb(0,35,156)"> **Russo,M.**</span>,  Ventz, S., Wang, V.,  Trippa, L.  [Inference in response-adaptive clinical trials when the enrolled population varies over time] (\href{https://github.com/rMassimiliano/TimeChangingPopulation).
+<span style="color:rgb(0,35,156)"> **Russo,M.**</span>,  Ventz, S., Wang, V.,  Trippa, L.  [Inference in response-adaptive clinical trials when the enrolled population varies over time](https://github.com/rMassimiliano/TimeChangingPopulation).
 
 Aliverti, E. and <span style="color:rgb(0,35,156)"> **Russo,M.**</span>,[Stratified stochastic variational inference for high-dimensional network factor model](arxiv.org/abs/2006.14217).
 
