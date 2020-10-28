@@ -25,4 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem "jekyll-pdf-embed"
   gem "jekyll-include-cache"
+  gem 'jekyll-commonmark-ghpages'
 end
