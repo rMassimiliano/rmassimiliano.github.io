@@ -6,4 +6,4 @@ permalink: /cv/
 
 You can download my cv [here!](files/RussoCV.pdf)
 
-{% pdf "/files/RussoCV.pdf" no_link%}
+
