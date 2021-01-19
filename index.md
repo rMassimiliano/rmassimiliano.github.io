@@ -6,8 +6,10 @@ permalink: /
 
 
 
-
+<!--
 {% include image.html url="images/profile.jpg" caption="" width="200px" align="left" %}
+-->
+<img src="images/profile.jpg" alt="drawing" width="180" align = 'left'/>
 
 
 Welcome to my website! My name is <span style="color:rgb(0,35,156)">  **Massimiliano Russo** </span> and I am a postdoctoral research fellow in Statistics  at <span style="color:rgb(0,35,156)"> **Harvard Medical School** </span> in the [Harvard Program in Therapeutic Science (HiTS)](http://hits.harvard.edu/) within the Harvard-MIT Center for Regulatory Science (CRS). I am also part of Prof. [Lorenzo Trippa](http://bcb.dfci.harvard.edu/~ltrippa/)'s group at the <span style="color:rgb(0,35,156)"> **Dana-Farber Cancer Institute (DFCI)** </span> in the [Department of Data Sciences](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-data-sciences/).
